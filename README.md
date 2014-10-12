@@ -29,7 +29,6 @@ The logic for this algorithm is as follows:
             <td colspan="3">...</td>
       </tr>
 </table>
-      ...
 
 Remembering that F(1) = 1, F(2) = 1, F(3) = 2, F(4) = 3, F(5) = 5)...<br/>
 <br/>
